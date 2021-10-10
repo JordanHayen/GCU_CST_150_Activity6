@@ -1,0 +1,10 @@
+C:\Users\jorda\Desktop\CST-150\Temperature Converter\Temperature Converter\bin\Debug\Temperature Converter.exe.config
+C:\Users\jorda\Desktop\CST-150\Temperature Converter\Temperature Converter\bin\Debug\Temperature Converter.exe
+C:\Users\jorda\Desktop\CST-150\Temperature Converter\Temperature Converter\bin\Debug\Temperature Converter.pdb
+C:\Users\jorda\Desktop\CST-150\Temperature Converter\Temperature Converter\obj\Debug\Temperature_Converter.Form1.resources
+C:\Users\jorda\Desktop\CST-150\Temperature Converter\Temperature Converter\obj\Debug\Temperature_Converter.Properties.Resources.resources
+C:\Users\jorda\Desktop\CST-150\Temperature Converter\Temperature Converter\obj\Debug\Temperature Converter.csproj.GenerateResource.cache
+C:\Users\jorda\Desktop\CST-150\Temperature Converter\Temperature Converter\obj\Debug\Temperature Converter.csproj.CoreCompileInputs.cache
+C:\Users\jorda\Desktop\CST-150\Temperature Converter\Temperature Converter\obj\Debug\Temperature Converter.exe
+C:\Users\jorda\Desktop\CST-150\Temperature Converter\Temperature Converter\obj\Debug\Temperature Converter.pdb
+C:\Users\jorda\Desktop\CST-150\Temperature Converter\Temperature Converter\obj\Debug\Temperature Converter.csprojAssemblyReference.cache
